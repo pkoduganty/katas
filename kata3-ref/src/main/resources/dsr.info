@@ -1,0 +1,11 @@
+Recipe:
+  net.jpmchase.mbt:dsr-java-blank:2.1.0
+
+Date:
+  Nov 19, 2013
+
+Recipe Inputs:
+  What is the name of the SVN Repository? MBT_DEV
+  What is the name of the FRS Repository? MBT_DEV
+  What is the application artifact id? roman-numerals-converter
+  What is the maven groupid? net.jpmchase.mbt.mbtdev
